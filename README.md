@@ -1,4 +1,7 @@
-# Iron Sights for Sniper Elite 4
+# MLSH — Mom's Little Simo Häyhä
+
+*Iron Sights for Sniper Elite 4.* On Nexus Mods the mod is published as **MLSH**. It is named after Simo Häyhä,
+who shot without a scope.
 
 Takes the telescopic sights off the scoped rifles and lets you aim over open sights instead.
 
